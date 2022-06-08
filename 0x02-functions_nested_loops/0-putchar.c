@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * *main prints - prints _putcha, followed by new line
- * Return: Always 0
+ *main prints - prints _putcha, followed by new line
+ * Return: Always 0(success)
  */
 int main(void)
 {
